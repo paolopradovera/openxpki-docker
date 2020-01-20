@@ -11,7 +11,7 @@ The provided docker-compose provided creates three containers:
 Before running compose you **MUST** place a configuration directory named `openxpki-config` in the current directory, the easiest way is to clone the branch `docker` from the `openxpki-config` repository at github.
 
 ```bash
-$ git clone https://github.com/openxpki/openxpki-config.git --branch=docker
+$ git clone https://github.com/openxpki/openxpki-docker.git
 $ docker-compose  up 
 ```
 
